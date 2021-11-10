@@ -4,10 +4,9 @@
       <figure class="w-1/2 px-12">
         <img
           :src="introImage"
-          height="312"
-          width="312"
+          height="350"
+          width="350"
           class="
-            rounded-full
             p-2
             bg-gradient-to-r
             from-red-50

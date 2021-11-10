@@ -10,7 +10,6 @@
           height="312"
           width="312"
           class="
-            rounded-3xl
             p-10
             bg-transparent
             shadow-sm
